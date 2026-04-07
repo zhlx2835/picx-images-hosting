@@ -1,4 +1,12 @@
-[
+{
+    "name":"小鹿乐玩公益源",
+    "message":"❣️ 温馨提示 ❣️ 🌐本站信息源于网络，仅供学习参考🌐 🚫本站不提供软件下载、工具及应用🚫 ⚠️用户自行获取使用，法律责任自担⚠️ 📩若涉及侵权内容，联系后立即删除📩 🐧QQ交流群: 365596457 🐧",
+    "identifier":"免费公益源",
+    "sourceURL":"https://app.eqishare.com/appstore",
+    "sourceicon":"https://ios.hccld.com/uploads/20240116/a447794814b774f8ba2e688c4f854e92.png",
+    "payURL":"https://shop.vx365.vip/buy/21",
+    "unlockURL":"https://app.eqishare.com/appstore",
+    "apps":[
     {
         "name": "Messenger",
         "type": 0,
@@ -1300,3 +1308,4 @@
         "size": "186562642"
     }
 ]
+}
