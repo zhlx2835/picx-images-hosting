@@ -1,0 +1,88 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----654E99E534FD942357CF25278EDAA1F4"
+
+This is an S/MIME signed message
+
+------654E99E534FD942357CF25278EDAA1F4
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <key>URL</key>
+        <string>https://ios.hccld.com/receive.php</string>
+        <key>DeviceAttributes</key>
+        <array>
+            <string>UDID</string>
+            <string>IMEI</string>
+            <string>ICCID</string>
+            <string>VERSION</string>
+            <string>PRODUCT</string>
+        </array>
+    </dict>
+    <key>PayloadOrganization</key>
+    <string>ios.hccld.com</string>
+    <key>PayloadDisplayName</key>
+    <string>小鹿助手获取设备UDID</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadUUID</key>
+    <string>3C4DC792-E475-3375-489C-0BB8D797B654</string>
+    <key>PayloadIdentifier</key>
+    <string>ios.hccld.profile-service</string>
+    <key>PayloadDescription</key>
+    <string>该描述文件仅用于获取设备UDID，获取完成后可以删除。</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
+</dict>
+</plist>
+------654E99E534FD942357CF25278EDAA1F4
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+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
+VYx91Mq14KRRpA4JNzQdyL+ybnU=
+
+------654E99E534FD942357CF25278EDAA1F4--
+
